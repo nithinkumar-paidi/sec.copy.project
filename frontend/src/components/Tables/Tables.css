@@ -1,0 +1,145 @@
+/* Container Styling */
+.table-booking {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: #34495e;
+    margin-bottom: 20px;
+  }
+  
+  /* Area Section Styling */
+  .area-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    background: #ffffff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .area-section:hover {
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.05);
+    transform: translateY(-5px);
+  }
+  
+  .area-section h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2980b9;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  
+  /* Table Rows Styling */
+  .table-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ecf0f1;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #dcdde1;
+    transition: background-color 0.3s ease;
+  }
+  
+  .table-row:hover {
+    background-color: #f5f6fa;
+  }
+  
+  .table-row span {
+    flex-grow: 1;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #2c3e50;
+  }
+  
+  /* Button Styling */
+  .btn {
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: none;
+  }
+  
+  .btn-add {
+    background-color: #27ae60;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .btn-book {
+    background-color: #3498db;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    cursor: not-allowed;
+  }
+  
+  .btn:hover {
+    opacity: 0.9;
+  }
+  .btn-delete {
+    background-color: red; /* Red background */
+    color: white; /* White text */
+  }
+  /* Tables.css */
+.btn {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .btn-book {
+    background-color: green;
+    color: white;
+  }
+  
+  .btn-cancel {
+    background-color: red; /* Red color for the cancel button */
+    color: white;
+  }
+  
+  .btn-delete {
+    background-color: orange;
+    color: white;
+  }
+  
+  .btn-delete:disabled {
+    background-color: gray; /* Gray out the delete button when disabled */
+    cursor: not-allowed;
+  }
+  
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .table-booking {
+      width: 95%;
+    }
+  
+    .table-row {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .table-row span {
+      margin-bottom: 10px;
+    }
+  }

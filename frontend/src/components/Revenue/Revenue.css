@@ -1,0 +1,198 @@
+/* General Container Styles */
+.revenue-container {
+  margin: 20px auto;
+  max-width: 1200px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #f3f4f6;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+.revenue-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.revenue-title {
+  font-size: 3rem;
+  margin: 0;
+  color: #2a4365;
+  font-weight: 700;
+}
+
+.revenue-subtitle {
+  font-size: 1.2rem;
+  color: #4a5568;
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 2rem;
+  color: #2a4365;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #2b6cb0;
+  display: inline-block;
+}
+
+/* Card Container */
+.revenue-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+/* Individual Card Styles */
+.revenue-card {
+  flex: 1 1 calc(25% - 20px);
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+}
+
+.revenue-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-icon {
+  font-size: 3rem;
+  color: #2b6cb0;
+  margin-bottom: 15px;
+}
+
+.card-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #4a5568;
+}
+
+.card-value {
+  font-size: 1.8rem;
+  color: #2a4365;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Chart Container */
+.chart-container {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Filter Section */
+.filter-section {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  background-color: #e2e8f0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.filter-section label {
+  font-size: 1rem;
+  color: #2a4365;
+  font-weight: 600;
+}
+
+#period-select,
+#date-select,
+#from-date,
+#to-date {
+  padding: 8px 12px;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #cbd5e0;
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#period-select:focus,
+#date-select:focus,
+#from-date:focus,
+#to-date:focus {
+  border-color: #2b6cb0;
+  box-shadow: 0 0 5px rgba(43, 108, 176, 0.5);
+}
+
+input[type="date"] {
+  color: #4a5568;
+}
+
+/* Print Button */
+.print-button {
+  background-color: #2b6cb0;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-bottom: 20px;
+}
+
+.print-button:hover {
+  background-color: #2c5282;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .revenue-card {
+    flex: 1 1 calc(33.3% - 20px);
+  }
+
+  .filter-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 768px) {
+  .revenue-card {
+    flex: 1 1 calc(50% - 20px);
+  }
+
+  .revenue-title {
+    font-size: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .revenue-card {
+    flex: 1 1 100%;
+  }
+
+  .revenue-title {
+    font-size: 2rem;
+  }
+
+  .filter-section {
+    width: 100%;
+  }
+
+  #period-select,
+  #date-select,
+  #from-date,
+  #to-date {
+    width: 100%;
+  }
+}

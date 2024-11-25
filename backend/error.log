@@ -1,0 +1,238 @@
+2024-11-21T11:25:39.297Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:25:59.636Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:07.439Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:08.318Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:08.622Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:08.821Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:10.557Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:10.997Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-21T11:26:11.340Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:28:31.747Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:28:36.123Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:350:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:30:30.440Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:30:39.269Z - Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1898:16)
+    at listenInCluster (node:net:1946:12)
+    at Server.listen (node:net:2044:7)
+    at Function.listen (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:361:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+2024-11-22T05:34:30.770Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:34:53.507Z - Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1898:16)
+    at listenInCluster (node:net:1946:12)
+    at Server.listen (node:net:2044:7)
+    at Function.listen (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:361:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+2024-11-22T05:36:03.908Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:03.909Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.100Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.102Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.568Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.569Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.765Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.767Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.937Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:11.939Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.087Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.088Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.328Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.329Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.509Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.511Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.685Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.686Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.808Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:36:12.809Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:43.287Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:53.101Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:53.541Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:53.732Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:53.912Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:54.086Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:54.359Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:54.598Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:55.513Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:43:55.869Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:44:00.851Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:48:07.284Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:48:57.732Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:49:00.357Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T05:49:00.660Z - MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\node_modules\mongoose\lib\connection.js:949:11)
+    at process.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:354:23)
+    at process.emit (node:events:519:28)
+2024-11-22T11:20:06.412Z - ReferenceError: path is not defined
+    at Object.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:109:26)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+2024-11-22T11:20:35.499Z - ReferenceError: path is not defined
+    at Object.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:109:26)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+2024-11-22T11:21:40.225Z - ReferenceError: path is not defined
+    at Object.<anonymous> (C:\Users\nithi\OneDrive\Documents\copy of project\menew\backend\server.js:109:26)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49

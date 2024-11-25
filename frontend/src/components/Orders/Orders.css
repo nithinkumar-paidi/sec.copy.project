@@ -1,0 +1,298 @@
+.order-container {
+  padding: 20px;
+  background-image: url('../../assets/ordersbg.jpg'); /* Adjust path as necessary */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.order-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.order-container h3 {
+  margin-top: 30px;
+  font-size: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.booking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.booking-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.order-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.order-card {
+  position: relative; /* Necessary for positioning the overlay */
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Slightly transparent border */
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.order-card:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+/* Optional: Adding a semi-transparent overlay for effect */
+.order-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.1); /* Light overlay */
+  border-radius: 8px; /* Match border radius */
+  z-index: 1; /* Position behind the text */
+}
+
+.order-card * {
+  position: relative; /* Ensure text appears above the overlay */
+  z-index: 2; /* Position above the overlay */
+}
+
+.order-card h4 {
+  margin-bottom: 10px;
+}
+
+.order-card p {
+  margin: 5px 0;
+}
+
+.order-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.add-menu-btn,
+.send-kitchen-btn {
+  padding: 10px 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-menu-btn {
+  background-color: green;
+}
+
+.send-kitchen-btn {
+  background-color: orange;
+}
+
+/* Additional styles for menu panel and buttons */
+.menu-panel {
+  position: relative;
+  padding: 20px;
+  background-color: #f4f4f4; /* Light background for contrast */
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  background-image: url('../../assets/menuuu.jpg'); /* Background image for entire section */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.menu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #007bff; /* Bootstrap primary color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Modal overlay for pop-ups */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Modal content styling */
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
+  width: 400px;
+}
+
+.modal-content h3 {
+  margin-top: 0;
+}
+
+.modal-content label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold; /* Bold labels */
+}
+
+.modal-content input,
+.modal-content textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s;
+}
+
+.modal-content input:focus,
+.modal-content textarea:focus {
+  border-color: #007bff; /* Highlight border on focus */
+}
+
+/* Grid layout for menu items */
+.menu-items {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px; /* Space between menu items */
+}
+
+/* Individual menu item card styling */
+.menu-item {
+  position: relative; /* Necessary for positioning the overlay */
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Transparent border */
+  border-radius: 8px;
+  background-color: transparent; /* Make the background transparent */
+  opacity: 0.8;
+  color: white; /* Change text color for better contrast */
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex; /* Use Flexbox for centering */
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+  text-align: center; /* Center text alignment */
+}
+
+.menu-item h3 {
+  font-size: 24px; /* Larger font size for item name */
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white; /* Set text color to white for better contrast */
+}
+
+.menu-item p {
+  font-size: 20px; /* Adjusting price font size */
+  font-weight: 600;
+  color: white; /* Set price color to white */
+  margin-bottom: 15px;
+}
+
+/* Quantity Label Styling */
+.quantity-label {
+  font-size: 16px; /* Size of the label */
+  font-weight: bold; /* Make the label bold */
+  margin-bottom: 10px; /* Add space below the label */
+}
+
+/* Quantity controls styling */
+.quantity-controls {
+  display: flex; /* Use Flexbox for quantity controls */
+  justify-content: center; /* Center controls */
+  align-items: center; /* Align items vertically */
+  margin-bottom: 15px; /* Add space below the controls */
+}
+
+.menu-item input[type="number"] {
+  width: 60px; /* Fixed width for quantity input */
+  margin: 0 10px; /* Space between the +/- buttons */
+  text-align: center;
+  padding: 5px;
+  font-size: 16px;
+}
+
+/* Add space between the quantity section and the button */
+.button-container {
+  margin-top: 10px; /* Space between quantity controls and button */
+}
+
+/* Optional: Adding a semi-transparent overlay */
+.menu-item::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+  border-radius: 8px; /* Match border radius */
+  z-index: 1; /* Position behind the text */
+}
+
+.menu-item * {
+  position: relative; /* Ensure text appears above the overlay */
+  z-index: 2; /* Position above the overlay */
+}
+
+/* Modal styling */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.modal h3 {
+  margin-bottom: 15px;
+}
+
+.modal label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.modal button {
+  margin-right: 10px;
+}

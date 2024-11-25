@@ -1,0 +1,336 @@
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:17:54","gani","5656565652","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 15:18:53","koko","5252526365","Good","x"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:08:20","hhhh","5252565656","Good","c"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:15:11","vcvffdgd","554442444","Good","ghjk"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 16:32:16","hu","5454547854","Average","dd"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 16:35:33","oi","2525256565","Satisfied","c"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 16:46:45","gani","5452565152","Average","gregre"] - Error: Invalid rating: Average
+Failed Row: ["13/11/2024 17:01:58","ninnnnn","244565568868","Satisfied","yryykuu"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:04:40","jkjhmn","5555454785","Satisfied","fg"] - Error: Invalid rating: Satisfied
+Failed Row: ["13/11/2024 17:10:42","ghj","6666664544","Good","mlmlml"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:24:12","sdfds","5485210254","Good","fv"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 17:27:59","huhu","5452525454","Good","dfgb"] - Error: Invalid rating: Good
+Failed Row: ["13/11/2024 21:46:35","koko","5259895454","Satisfied","koko"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:03:04","pppppppp","25252525252","Satisfied","kkkkkkkk"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 11:19:29","ganesh","1544848956484","Good","ok"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 11:53:54","dhfgdhdyhsdu","6479889877","Satisfied","adssgdfd"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:18:48","some thing","598989898","Satisfied","mmmmm"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 15:48:30","one miore","4654564646","Satisfied","nnhhh"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 16:07:36","a to z","12356456546","Good","mmmm"] - Error: Invalid rating: Good
+Failed Row: ["14/11/2024 18:26:06","Nithin","9391651183","Satisfied","Nice services"] - Error: Invalid rating: Satisfied
+Failed Row: ["14/11/2024 18:54:36","paidi","+9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 11:50:48","ganesh ","9391651183","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:15:59","sai","9391651183","Good","good"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 12:50:15","srikanth","+9391651183","Satisfied","ghfds"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 12:55:44","nithin paidi","+919391651183","Good","bgvgfgfhg"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 13:36:41","jaya","8688934613","Satisfied","bhhhuhu"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 14:39:44","srikanth","+919390991635","Good","nice"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 14:46:40","sri","9390991635","Average","sdfghnm"] - Error: Invalid rating: Average
+Failed Row: ["15/11/2024 14:50:04","sri","+919390991635","Satisfied","erty"] - Error: Invalid rating: Satisfied
+Failed Row: ["15/11/2024 15:11:22","hvghfyh","+919391651183","Good","hj,"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:45:46","sai","+91 90520 49987","Good","hhhh"] - Error: Invalid rating: Good
+Failed Row: ["15/11/2024 15:51:00","hari","+919052049987","Satisfied","nice"] - Error: Invalid rating: Satisfied
+Failed Row: ["18/11/2024 11:38:57","ganesh","5489977777","Good","dsssaa"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 11:06:50","sdfgh","686555565565","Good","rtyui"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 15:33:05","nk","45465558544","Good","dhcbjsjsbjs"] - Error: Invalid rating: Good
+Failed Row: ["19/11/2024 16:10:25","asdfghj","6655686858568585","Satisfied","ertyhk."] - Error: Invalid rating: Satisfied
+Failed Row: ["20/11/2024 12:06:59","nk","9391651183","Good","pk"] - Error: Invalid rating: Good
+Failed Row: ["20/11/2024 14:57:13","nbk","252525252235","Satisfied","ooooo"] - Error: Invalid rating: Satisfied
+Failed Row: ["21/11/2024 16:22:48","srikkkk","63636363363","Satisfied","kdkdkdkdkdkdkdkdkdkdkdkkdkdk"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 11:35:34","nithinpaidi","9391651183","Good","cgvujhij"] - Error: Invalid rating: Good
+Failed Row: ["22/11/2024 11:37:44","paidi nithinkumatr","9391651183","Satisfied","sdcfv"] - Error: Invalid rating: Satisfied
+Failed Row: ["22/11/2024 12:25:39","ggggggg","656565965656","Satisfied","Zxcvbn"] - Error: Invalid rating: Satisfied
+Customer Name: gani, Phone Number: 5656565652, Feedback: Satisfied
+Customer Name: koko, Phone Number: 5252526365, Feedback: Good
+Customer Name: hhhh, Phone Number: 5252565656, Feedback: Good
+Customer Name: vcvffdgd, Phone Number: 554442444, Feedback: Good
+Customer Name: hu, Phone Number: 5454547854, Feedback: Average
+Customer Name: oi, Phone Number: 2525256565, Feedback: Satisfied
+Customer Name: gani, Phone Number: 5452565152, Feedback: Average
+Customer Name: ninnnnn, Phone Number: 244565568868, Feedback: Satisfied
+Customer Name: jkjhmn, Phone Number: 5555454785, Feedback: Satisfied
+Customer Name: ghj, Phone Number: 6666664544, Feedback: Good
+Customer Name: sdfds, Phone Number: 5485210254, Feedback: Good
+Customer Name: huhu, Phone Number: 5452525454, Feedback: Good
+Customer Name: koko, Phone Number: 5259895454, Feedback: Satisfied
+Customer Name: pppppppp, Phone Number: 25252525252, Feedback: Satisfied
+Customer Name: ganesh, Phone Number: 1544848956484, Feedback: Good
+Customer Name: dhfgdhdyhsdu, Phone Number: 6479889877, Feedback: Satisfied
+Customer Name: some thing, Phone Number: 598989898, Feedback: Satisfied
+Customer Name: one miore, Phone Number: 4654564646, Feedback: Satisfied
+Customer Name: a to z, Phone Number: 12356456546, Feedback: Good
+Customer Name: Nithin, Phone Number: 9391651183, Feedback: Satisfied
+Customer Name: paidi, Phone Number: +9391651183, Feedback: Good
+Customer Name: ganesh , Phone Number: 9391651183, Feedback: Good
+Customer Name: sai, Phone Number: 9391651183, Feedback: Good
+Customer Name: srikanth, Phone Number: +9391651183, Feedback: Satisfied
+Customer Name: nithin paidi, Phone Number: +919391651183, Feedback: Good
+Customer Name: jaya, Phone Number: 8688934613, Feedback: Satisfied
+Customer Name: srikanth, Phone Number: +919390991635, Feedback: Good
+Customer Name: sri, Phone Number: 9390991635, Feedback: Average
+Customer Name: sri, Phone Number: +919390991635, Feedback: Satisfied
+Customer Name: hvghfyh, Phone Number: +919391651183, Feedback: Good
+Customer Name: sai, Phone Number: +91 90520 49987, Feedback: Good
+Customer Name: hari, Phone Number: +919052049987, Feedback: Satisfied
+Customer Name: ganesh, Phone Number: 5489977777, Feedback: Good
+Customer Name: sdfgh, Phone Number: 686555565565, Feedback: Good
+Customer Name: nk, Phone Number: 45465558544, Feedback: Good
+Customer Name: asdfghj, Phone Number: 6655686858568585, Feedback: Satisfied
+Customer Name: nk, Phone Number: 9391651183, Feedback: Good
+Customer Name: nbk, Phone Number: 252525252235, Feedback: Satisfied
+Customer Name: srikkkk, Phone Number: 63636363363, Feedback: Satisfied
+Customer Name: nithinpaidi, Phone Number: 9391651183, Feedback: Good
+Customer Name: paidi nithinkumatr, Phone Number: 9391651183, Feedback: Satisfied
+Customer Name: ggggggg, Phone Number: 656565965656, Feedback: Satisfied

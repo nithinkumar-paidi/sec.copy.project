@@ -1,0 +1,38 @@
+.payment-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.payment-qr img {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+.complete-payment-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .complete-payment-btn:hover {
+    background-color: #45a049;
+  }
+  
+  .payment-success-message {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7f5e7;
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+    text-align: center;
+  }
+  
